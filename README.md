@@ -1,7 +1,7 @@
 req_mirror
 ==
 
-A HTTP server that parrots received request as response.
+An HTTP server that parrots a received request as a response.
 
 Usage
 --
